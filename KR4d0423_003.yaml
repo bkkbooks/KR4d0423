@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0423/krp/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 淮陽集後序勝國淮陽張獻武王初以中州著姓臣事蒙古為之奔走效力逼宋海隅遂滅其國功業雖盛君子弗取獨其詩集之僅存者嘗取讀之據鞍撗槊意氣豪放由軍中雅歌而下少見其比况時方馳逐金戈鐵馬間自非有志於投戈講藝息馬論道奚暇及此是則為可取焉者也詩集首題淮陽張獻武王元人蓋侈其爵諡云爾乃今僭易之曰張淮陽詩集若唐之韋蘇州以詩鳴宋之秦淮海以樂府鳴之類是已樂府仍附於其後顧舊本觸首隨落且傳之者復甚鈔於是拾遺補闕重加校正命工翻刻庶備元詩之一家張諱宏範字仲疇中州河內人履歷之詳具載元史本傳云時正德辛未嵗孟冬之吉知公安縣事宿人周鉞書
+  hash: sha256:a26b1943f8631c182b4a44c7db3d78f9e6d12838e1816fa8465c05473b341209
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0423_WYG_003-1a, image: WYG1191/WYG1191-0721c.png}
+metadata:
+  title: 淮陽集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:08:34.275810'
+  juan_title: 後序
+  source:
+    repository: kanripo
+    path: KR4d0423/KR4d0423_003.txt
+hash: sha256:db10959a661469ee1d7eeddf3b296056296bec6fd0c9bae36eee8cfcdc931e42
